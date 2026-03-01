@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 
- I'm Precious Rotimi 👋
+ I'm Precious Rotimi 
+ 
+ ![Precious](https://github.com/user-attachments/assets/f02d6b03-6592-44f1-bd86-461a1136dd6d)
+
 
 🌐 Data Analyst | Power BI Developer | SQL Developer | Accounting Student | Tech Blogger
 
