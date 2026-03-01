@@ -3,7 +3,7 @@
 
  I'm Precious Rotimi 
  
- ![Precious](https://github.com/user-attachments/assets/f02d6b03-6592-44f1-bd86-461a1136dd6d)
+![Precious](https://github.com/user-attachments/assets/d98ed283-85ca-4b4e-8435-1eefe09a9278)
 
 
 🌐 Data Analyst | Power BI Developer | SQL Developer | Accounting Student | Tech Blogger
