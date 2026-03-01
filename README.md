@@ -2,8 +2,8 @@
 
 
  I'm Precious Rotimi 
- 
-![Precious](https://github.com/user-attachments/assets/d98ed283-85ca-4b4e-8435-1eefe09a9278)
+(https://github.com/user-attachments/assets/f2c8f673-0fa5-46b8-95b8-411db19eb870)
+
 
 
 🌐 Data Analyst | Power BI Developer | SQL Developer | Accounting Student | Tech Blogger
